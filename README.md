@@ -26,7 +26,7 @@
 </p>
 </p>
 
-<p>project demo 1 <a href="https://ajitharunai.github.io/Bithday-Counter-using-Js/">Birthday Counter</a>.</p>
+<p>project demo 1 <a href="https://ajicreations.herokuapp.com/">Live Weather Condition</a>.</p>
 <p align="center">
   <em>
     Hello, I am Ajith Kumar Murugan <b>final year</b> undergraduate from <a href="https://uom.lk/"> <b>Arunai Engineering College</b>, Tiruvannamalai (" Wisdom is all wealth ")</a>. <br>
